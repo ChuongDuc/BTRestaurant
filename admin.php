@@ -53,7 +53,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
+                        <tr class="align-middle">
                             <td scope="row">1.</td>
                             <td>Arcenio Leach</td>
                             <td>toduwaxobi</td>
@@ -63,7 +63,7 @@
                                 <button type="button" class="btn btn-danger rounded-0">Delete Admin</button>
                             </td>
                         </tr>
-                        <tr>
+                        <tr class="align-middle">
                             <td scope="row">2.</td>
                             <td>Shasha Mendez</td>
                             <td>goxemyde</td>
@@ -73,7 +73,7 @@
                                 <button type="button" class="btn btn-danger rounded-0">Delete Admin</button>
                             </td>
                         </tr>
-                        <tr>
+                        <tr class="align-middle">
                             <td scope="row">3.</td>
                             <td>Vijay Thapa</td>
                             <td>vijaythapa</td>
@@ -83,7 +83,7 @@
                                 <button type="button" class="btn btn-danger rounded-0">Delete Admin</button>
                             </td>
                         </tr>
-                        <tr>
+                        <tr class="align-middle">
                             <td scope="row">4.</td>
                             <td>Administrator</td>
                             <td>admin</td>

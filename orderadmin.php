@@ -41,7 +41,7 @@
                 </div>
                 <table class="table mt-5 ">
                     <thead>
-                        <tr>
+                        <tr class="align-middle">
                             <th scope="col ">S.N.</th>
                             <th scope="col ">Food</th>
                             <th scope="col ">Price</th>
@@ -57,7 +57,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
+                        <tr class="align-middle">
                             <td scope="row">1.</td>
                             <td>Mixed Pizza</td>
                             <td>10.00</td>
@@ -82,7 +82,7 @@
                                 <p class="bg-success"> Update Order</p>
                             </th>
                         </tr>
-                        <tr>
+                        <tr class="align-middle">
                             <td scope="row">2.</td>
                             <td>Best Burgur</td>
                             <td>4.00</td>
@@ -107,7 +107,7 @@
                                 <p class="bg-success"> Update Order</p>
                             </th>
                         </tr>
-                        <tr>
+                        <tr class="align-middle">
                             <td scope="row">3.</td>
                             <td>Sadeko Momo</td>
                             <td>6.00</td>

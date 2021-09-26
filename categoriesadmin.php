@@ -44,7 +44,7 @@
                 </div>
                 <table class="table mt-5 ">
                     <thead>
-                        <tr>
+                        <tr class="align-middle">
                             <th class="col-md-1 ">S.N.</th>
                             <th class="col-md-2 ">Title</th>
                             <th class="col-md-2 ">Image</th>
@@ -54,54 +54,54 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td scope="row" class="pt-5">1.</td>
-                            <td class="pt-5">Pizza</td>
+                        <tr class="align-middle">
+                            <td scope="row">1.</td>
+                            <td>Pizza</td>
                             <td class="text-center">
                                 <img src="./assets/img/foods/pizza.jpg" alt="" class="img-fluid myimg2">
                             </td>
-                            <td class="pt-5">Yes</td>
-                            <td class="pt-5">Yes</td>
-                            <td class="pt-5">
+                            <td>Yes</td>
+                            <td>Yes</td>
+                            <td>
                                 <button type="button" class="btn btn-success rounded-0 ">Update Category</button>
                                 <button type="button" class="btn btn-danger rounded-0">Delete Category</button>
                             </td>
                         </tr>
-                        <tr>
-                            <td scope="row" class="pt-5">2.</td>
-                            <td class="pt-5"> Burger</td>
+                        <tr class="align-middle">
+                            <td scope="row">2.</td>
+                            <td> Burger</td>
                             <td class="text-center">
                                 <img src="./assets/img/foods/burger.jpg" alt="" class="img-fluid myimg2">
                             </td>
-                            <td class="pt-5">Yes</td>
-                            <td class="pt-5">Yes</td>
-                            <td class="pt-5">
+                            <td>Yes</td>
+                            <td>Yes</td>
+                            <td>
                                 <button type="button" class="btn btn-success rounded-0">Update Category</button>
                                 <button type="button" class="btn btn-danger rounded-0">Delete Category</button>
                             </td>
                         </tr>
-                        <tr>
-                            <td scope="row" class="pt-5">3.</td>
-                            <td class="pt-5">Momo</td>
+                        <tr class="align-middle">
+                            <td scope="row">3.</td>
+                            <td>Momo</td>
                             <td class="text-center">
                                 <img src="./assets/img/foods/momo.jpg" alt="" class="img-fluid myimg2">
                             </td>
-                            <td class="pt-5">Yes</td>
-                            <td class="pt-5">Yes</td>
-                            <td class="pt-5">
+                            <td>Yes</td>
+                            <td>Yes</td>
+                            <td>
                                 <button type="button" class="btn btn-success rounded-0">Update Category</button>
                                 <button type="button" class="btn btn-danger rounded-0">Delete Category</button>
                             </td>
                         </tr>
-                        <tr>
-                            <td scope="row" class="pt-5">4.</td>
-                            <td class="pt-5"> Quia est ipsum id id</td>
+                        <tr class="align-middle">
+                            <td scope="row">4.</td>
+                            <td> Quia est ipsum id id</td>
                             <td class="text-center">
                                 <img src="./assets/img/foods/pizza.jpg" alt="" class="img-fluid myimg2">
                             </td>
-                            <td class="pt-5">No</td>
-                            <td class="pt-5">Yes</td>
-                            <td class="pt-5">
+                            <td>No</td>
+                            <td>Yes</td>
+                            <td>
                                 <button type="button" class="btn btn-success rounded-0">Update Category</button>
                                 <button type="button" class="btn btn-danger rounded-0">Delete Category</button>
                             </td>

@@ -44,7 +44,7 @@
                 </div>
                 <table class="table mt-5 ">
                 <thead>
-                    <tr>
+                    <tr class="align-middle">
                         <th class="col-md-1 ">S.N.</th>
                         <th class="col-md-2 ">Title</th>
                         <th class="col-md-1 ">Price</th>
@@ -55,88 +55,88 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td scope="row" class="pt-5">1.</td>
-                        <td class="pt-5">Dumpling Specials</td>
-                        <td class="pt-5">$5.00</td>
+                    <tr class="align-middle">
+                        <td scope="row">1.</td>
+                        <td>Dumpling Specials</td>
+                        <td>$5.00</td>
                         <td class="text-center align-item-center">
                             <img src="./assets/img/foods/momo.jpg" alt="" class="img-fluid myimg2">
                         </td>
-                        <td class="pt-5">Yes</td>
-                        <td class="pt-5">Yes</td>
-                        <td class="pt-5">
-                            <button type="button" class="btn btn-success rounded-0">Update Category</button>
-                            <button type="button" class="btn btn-danger rounded-0">Delete Category</button>
+                        <td>Yes</td>
+                        <td>Yes</td>
+                        <td>
+                            <button type="button" class="btn btn-success rounded-0">Update Food</button>
+                            <button type="button" class="btn btn-danger rounded-0">Delete Food</button>
                         </td>
                     </tr>
-                    <tr>
-                        <td scope="row" class="pt-5">2.</td>
-                        <td class="pt-5"> Best Burger</td>
-                        <td class="pt-5">$4.00</td>
+                    <tr class="align-middle">
+                        <td scope="row">2.</td>
+                        <td> Best Burger</td>
+                        <td>$4.00</td>
                         <td class="text-center align-item-center">
                             <img src="./assets/img/foods/burger.jpg" alt="" class="img-fluid myimg2">
                         </td>
-                        <td class="pt-5">Yes</td>
-                        <td class="pt-5">Yes</td>
-                        <td class="pt-5">
-                            <button type="button" class="btn btn-success rounded-0">Update Category</button>
-                            <button type="button" class="btn btn-danger rounded-0">Delete Category</button>
+                        <td>Yes</td>
+                        <td>Yes</td>
+                        <td>
+                            <button type="button" class="btn btn-success rounded-0">Update Food</button>
+                            <button type="button" class="btn btn-danger rounded-0">Delete Food</button>
                         </td>
                     </tr>
-                    <tr>
-                        <td scope="row" class="pt-5">3.</td>
-                        <td class="pt-5">Smoky BBQ Pizza</td>
-                        <td class="pt-5">$6.00</td>
+                    <tr class="align-middle">
+                        <td scope="row">3.</td>
+                        <td>Smoky BBQ Pizza</td>
+                        <td>$6.00</td>
                         <td class="text-center align-item-center ">
                             <img src="./assets/img/foods/pizza.jpg" alt="" class="img-fluid myimg2">
                         </td>
-                        <td class="pt-5">Yes</td>
-                        <td class="pt-5">Yes</td>
-                        <td class="pt-5">
-                            <button type="button" class="btn btn-success rounded-0">Update Category</button>
-                            <button type="button" class="btn btn-danger rounded-0">Delete Category</button>
+                        <td>Yes</td>
+                        <td>Yes</td>
+                        <td>
+                            <button type="button" class="btn btn-success rounded-0">Update Food</button>
+                            <button type="button" class="btn btn-danger rounded-0">Delete Food</button>
                         </td>
                     </tr>
-                    <tr>
-                        <td scope="row" class="pt-5">4.</td>
-                        <td class="pt-5"> Sadeko momo</td>
-                        <td class="pt-5">$6.00</td>
+                    <tr class="align-middle">
+                        <td scope="row">4.</td>
+                        <td> Sadeko momo</td>
+                        <td>$6.00</td>
                         <td class="text-center align-item-center">
                             <img src="./assets/img/foods/momo.jpg" alt="" class="img-fluid myimg2">
                         </td>
-                        <td class="pt-5">No</td>
-                        <td class="pt-5">Yes</td>
-                        <td class="pt-5">
-                            <button type="button" class="btn btn-success rounded-0">Update Category</button>
-                            <button type="button" class="btn btn-danger rounded-0">Delete Category</button>
+                        <td>No</td>
+                        <td>Yes</td>
+                        <td>
+                            <button type="button" class="btn btn-success rounded-0">Update Food</button>
+                            <button type="button" class="btn btn-danger rounded-0">Delete Food</button>
                         </td>
                     </tr>
-                    <tr>
-                        <td scope="row" class="pt-5">5.</td>
-                        <td class="pt-5"> Mixed Pizza</td>
-                        <td class="pt-5">$10.00</td>
+                    <tr class="align-middle">
+                        <td scope="row">5.</td>
+                        <td> Mixed Pizza</td>
+                        <td>$10.00</td>
                         <td class="text-center align-item-center">
                             <img src="./assets/img/foods/pizza.jpg" alt="" class="img-fluid myimg2">
                         </td>
-                        <td class="pt-5">No</td>
-                        <td class="pt-5">Yes</td>
-                        <td class="pt-5">
-                            <button type="button" class="btn btn-success rounded-0">Update Category</button>
-                            <button type="button" class="btn btn-danger rounded-0">Delete Category</button>
+                        <td>No</td>
+                        <td>Yes</td>
+                        <td>
+                            <button type="button" class="btn btn-success rounded-0">Update Food</button>
+                            <button type="button" class="btn btn-danger rounded-0">Delete Food</button>
                         </td>
                     </tr>
-                    <tr>
-                        <td scope="row" class="pt-5">6.</td>
-                        <td class="pt-5"> Sed ipsum cillum in</td>
-                        <td class="pt-5">$52.00</td>
+                    <tr class="align-middle">
+                        <td scope="row">6.</td>
+                        <td> Sed ipsum cillum in</td>
+                        <td>$52.00</td>
                         <td class="text-center align-item-center">
                             <img src="./assets/img/foods/mosmo.jpg" alt="Image not Added" class="img-fluid myimg2">
                         </td>
-                        <td class="pt-5">No</td>
-                        <td class="pt-5">Yes</td>
-                        <td class="pt-5">
-                            <button type="button" class="btn btn-success rounded-0">Update Category</button>
-                            <button type="button" class="btn btn-danger rounded-0">Delete Category</button>
+                        <td>No</td>
+                        <td>Yes</td>
+                        <td>
+                            <button type="button" class="btn btn-success rounded-0">Update Food</button>
+                            <button type="button" class="btn btn-danger rounded-0">Delete Food</button>
                         </td>
                     </tr>
                 </tbody>

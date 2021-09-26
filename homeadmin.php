@@ -40,19 +40,19 @@
                     <h2>Dashboard</h2>
                 </div>
                 <div class="row mt-5 justify-content-between">
-                    <div class="col-md-2 col-12 bg-white text-center ">
+                    <div class="col-md-2 col-12 bg-white text-center mb-3">
                         <h2 class="pt-3">4</h2>
                         <p class="pb-3">categories</p>
                     </div>
-                    <div class="col-md-2 col-12 bg-white text-center ">
+                    <div class="col-md-2 col-12 bg-white text-center mb-3 ">
                         <h2 class="pt-3">6</h2>
                         <p class="pb-3">Foods</p>
                     </div>
-                    <div class="col-md-2 col-12 bg-white text-center ">
+                    <div class="col-md-2 col-12 bg-white text-center mb-3 ">
                         <h2 class="pt-3"> 3</h2>
                         <p class="pb-3">Total Order</p>
                     </div>
-                    <div class="col-md-2 col-12 bg-white text-center ">
+                    <div class="col-md-2 col-12 bg-white text-center mb-3 ">
                         <h2 class="pt-3">$36.00</h2>
                         <p class="pb-3">Revenue Generated</p>
                     </div>
