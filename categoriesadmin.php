@@ -97,7 +97,7 @@
                             <td scope="row">4.</td>
                             <td> Quia est ipsum id id</td>
                             <td class="text-center">
-                                <img src="./assets/img/foods/pizza.jpg" alt="" class="img-fluid myimg2">
+                                <img src="./assets/img/foods/newpizza.jpg" alt="" class="img-fluid myimg2">
                             </td>
                             <td>No</td>
                             <td>Yes</td>

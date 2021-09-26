@@ -54,15 +54,21 @@
                 <div class="row mt-2 justify-content-between text-center ">
                     <div class="col-lg-4 col-12 text-center mb-4 form-floating ">
                         <img src="./assets/img/foods/pizza.jpg" alt="Pizza" class="member-img img-fluid box-desc">
-                        <p class="form-floating img-name text-white">Pizza</p>
+                        <p class="form-floating img-name text-white strong">Pizza</p>
                     </div>
                     <div class="col-lg-4 col-12 text-center mb-4 form-floating ">
                         <img src="./assets/img/foods/burger.jpg" alt="Burger" class="member-img img-fluid box-desc">
-                        <p class="form-floating img-name text-white">Burger</p>
+                        <p class="form-floating img-name text-white strong">Burger</p>
                     </div>
                     <div class="col-lg-4 col-12 text-center mb-4 form-floating">
                         <img src="./assets/img/foods/momo.jpg" alt="Momo" class="member-img img-fluid box-desc">
-                        <p class="form-floating img-name text-white">Momo</p>
+                        <p class="form-floating img-name text-white strong">Momo</p>
+                    </div>
+                </div>
+                <div class="row mt-2 justify-content-between text-center ">
+                    <div class="col-lg-4 col-12 text-center mb-4 form-floating">
+                        <img src="./assets/img/foods/newpizza.jpg" alt="Momo" class="member-img img-fluid box-desc">
+                        <p class="form-floating img-name2 text-white strong ">	Quia est ipsum id id</p>
                     </div>
                 </div>
             </div>

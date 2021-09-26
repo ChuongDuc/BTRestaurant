@@ -49,9 +49,9 @@
         </div>
 
         <div id="slider" class="container-fluid">
-            <form class="d-flex col-6">
+            <form class="d-flex col-md-6">
                 <input class="form-control me-2" type="search" placeholder="Search for food ..." aria-label="Search">
-                <button class="btn btn-outline-success btn-search" type="submit">Search</button>
+                <button class="btn btn-outline-success btn-search " type="submit">Search</button>
             </form>
         </div>
 
