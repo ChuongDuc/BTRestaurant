@@ -1,0 +1,95 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+
+.nav-item a{
+    color: rgb(240,80,154) !important;
+    font-weight: bold;
+}
+
+#slider{
+    background-image: url('../img/background/bg1.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 7% 0;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-order,
+.btn-search{
+    background-color: rgb(240,80,154);
+    color: #fff;
+    border: none;
+}
+.btn-outline-success:hover{
+    color: #000;
+    background-color: #dee2e6;
+}
+
+.desc-header{
+    font-size: 36px;
+}
+
+.member-img{
+    width: 80%;
+}
+
+.img-name{
+    bottom: 50px
+}
+
+.card{
+    flex-direction: row;
+}
+
+.mybg{
+    background-color: #ececec;
+}
+
+.mymenu-img{
+    width: 20%;
+}
+
+
+.myimg{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.box-desc{
+    border-radius: 15px;
+}
+
+.desc-body{
+    width: 70%;
+}
+
+.mycolor{
+    color: #747d8c;
+}
+
+.bgfooter{
+    background-color: red;
+}
+
+/* .mydesc{
+    margin: inherit;
+} */
+
+.myimg2{
+    width: 50%;
+}
+
+tr td th h5 {
+    background-color: green;
+
+}
